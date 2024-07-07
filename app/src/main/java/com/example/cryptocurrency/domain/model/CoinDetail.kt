@@ -1,6 +1,5 @@
 package com.example.cryptocurrency.domain.model
 
-import com.example.cryptocurrency.data.remote.dto.Tag
 import com.example.cryptocurrency.data.remote.dto.TeamMember
 
 data class CoinDetail(
